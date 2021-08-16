@@ -22,7 +22,22 @@
 
 <hr>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbahia2">
+Olá, sou o Nathan 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=nathanbahia2">
+Programador Jr focado em **Python/Django**, aspirante a full-stack com as tecnologias de front-end **JQuery e Bootstrap**.
+Graduando em **Análise e Desenvolvimento de Sistemas** em 2021, tenho experiência como programador full-stack no projeto Autovist.
+Tenho 27 anos e sou do interior do estado do Rio de Janeiro.
+
+Atualmente, estou estudando: 
+
+- TDD em Django🐐 
+- Programação Assíncrona e Concorrente com Python⏲️
+- Inglês 🇺🇸
+
+*Amo programar, ler livros e ouvir podcasts.*
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbahia2&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> <img src="https://github-readme-stats.vercel.app/api?username=nathanbahia2&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
